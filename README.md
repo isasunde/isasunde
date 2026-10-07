@@ -14,45 +14,68 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Isabella 👋
 
-MSc Pharmaceutical Design & Engineering from DTU with an interest in
-computational structural biology, molecular modelling, and data-driven
-drug discovery.
+MSc Pharmaceutical Design & Engineering from DTU with an interdisciplinary background in **machine learning, scientific computing, data analysis and computational biology**.
 
-My work so far focuses on using molecular simulations and Python-based analysis
-to investigate protein structure, dynamics, and interactions.
+I enjoy using programming and data-driven methods to investigate complex problems and develop practical, reproducible solutions. My projects span **machine learning and deep learning, molecular simulations, protein sequence analysis, data pipelines and high-dimensional scientific data**.
 
-## 🔬 Research interests
-- Computational structural biology
-- Molecular dynamics & enhanced sampling
-- Protein–protein interactions
-- Scientific computing & data analysis
-- Machine learning for molecular data
+My background combines a strong foundation in pharmaceutical and biological sciences with hands-on experience in Python, machine learning and scientific data analysis.
 
-## 🧬 Selected projects (To be uploaded very soon)
+## 🔬 Areas of interest
+
+* Machine learning & deep learning
+* Computational & structural biology
+* Scientific computing & data analysis
+* Protein structure, dynamics & interactions
+* Data pipelines & reproducible workflows
+* Data-driven drug discovery
+
+## 🧬 Selected projects
 
 ### TPH2 Molecular Dynamics
-Analysis of how phosphorylation influences the structure and dynamics
-of tryptophan hydroxylase 2.
 
-→ repository
+Computational study of the structure and dynamics of **tryptophan hydroxylase 2 (TPH2)**, investigating how phosphorylation and interactions with 14-3-3 proteins may influence its regulatory behaviour.
+
+→ Repository
 
 ### PPI-GaMD Analysis
-Analysis and free-energy reweighting workflows for enhanced-sampling
-simulations of protein–protein interactions.
 
-→ repository
+Python-based analysis and free-energy reweighting workflows for **protein–protein interaction simulations using Gaussian accelerated molecular dynamics (GaMD)**.
 
-## 🛠️ Tools
-Python · AMBER · CPPTRAJ · MDAnalysis · PyMOL · Linux/HPC
-NumPy · pandas · matplotlib · scikit-learn · PyTorch
+→ Repository
+
+### Protein Sequence-Based Analysis of Folding Kinetics
+
+Machine learning-based prediction of protein folding kinetics from **ESM protein sequence embeddings**, including an end-to-end data pipeline from the K-Pro API through ETL processing and SQL database storage to model development and evaluation.
+
+→ Repository
+
+### Deep Learning for Retinal Image Analysis
+
+Deep learning pipeline for **retinal blood-vessel segmentation and image classification**, developed in Python/PyTorch during a research exchange at POSTECH, South Korea.
+
+→ Repository
+
+## 🛠️ Tools & technologies
+
+**Programming & data**
+Python · SQL · NumPy · pandas · scikit-learn · matplotlib
+
+**Machine learning**
+PyTorch · TensorFlow · Machine Learning · Deep Learning
+
+**Scientific computing**
+AMBER · CPPTRAJ · MDAnalysis · PyMOL · Linux · HPC
+
+**Development**
+Git · GitHub · APIs · ETL · Data Pipelines
+
 
 ## 🔭 I’m currently working on:
-Developing and documenting reusable workflows for molecular dynamics
-analysis, structural bioinformatics, and protein simulation data.
+A new project investigating drug-drug-reactions using the
+FDA open API.
 
 ## 🌱 I’m currently learning:
-Expanding my skills in SQL, Git/GitHub, and reproducible scientific 
-software development.
+Expanding my skills in SQL, and Python for Data Science
   
 ## 📫 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isabella-kalish-sundenæs-609800298) or reach me at [isasunde@gmail.com](mailto:isasunde@gmail.com).
