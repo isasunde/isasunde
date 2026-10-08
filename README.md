@@ -31,29 +31,23 @@ My background combines a strong foundation in pharmaceutical and biological scie
 
 ## 🧬 Selected projects
 
-### TPH2 Molecular Dynamics
-
-Computational study of the structure and dynamics of **tryptophan hydroxylase 2 (TPH2)**, investigating how phosphorylation and interactions with 14-3-3 proteins may influence its regulatory behaviour.
-
-→ Repository
-
-### PPI-GaMD Analysis
+### PPI-GaMD Tools
 
 Python-based analysis and free-energy reweighting workflows for **protein–protein interaction simulations using Gaussian accelerated molecular dynamics (GaMD)**.
 
-→ Repository
+→ [Repository](https://github.com/isasunde/PPI_GaMD_Tools)
 
 ### Protein Sequence-Based Analysis of Folding Kinetics
 
 Machine learning-based prediction of protein folding kinetics from **ESM protein sequence embeddings**, including an end-to-end data pipeline from the K-Pro API through ETL processing and SQL database storage to model development and evaluation.
 
-→ Repository
+→ [Repository](https://github.com/isasunde/Protein-Sequence-Based-Prediction-of-Folding-Kinetics)
 
 ### Deep Learning for Retinal Image Analysis
 
 Deep learning pipeline for **retinal blood-vessel segmentation and image classification**, developed in Python/PyTorch during a research exchange at POSTECH, South Korea.
 
-→ Repository
+→ Repository (To be uploaded)
 
 ## 🛠️ Tools & technologies
 
@@ -71,11 +65,10 @@ Git · GitHub · APIs · ETL · Data Pipelines
 
 
 ## 🔭 I’m currently working on:
-A new project investigating drug-drug-reactions using the
-FDA open API.
+A new project investigating drug-drug-reactions using the FDA open API.
 
 ## 🌱 I’m currently learning:
-Expanding my skills in SQL, and Python for Data Science
+Expanding my skills in SQL and Python for Data Science
   
 ## 📫 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isabella-kalish-sundenæs-609800298) or reach me at [isasunde@gmail.com](mailto:isasunde@gmail.com).
