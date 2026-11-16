@@ -43,11 +43,11 @@ Machine learning-based prediction of protein folding kinetics from **ESM protein
 
 → [Repository](https://github.com/isasunde/Protein-Sequence-Based-Prediction-of-Folding-Kinetics)
 
-### Deep Learning for Retinal Image Analysis
+### QSAR Applicability Domain (PFAS)
 
-Deep learning pipeline for **retinal blood-vessel segmentation and image classification**, developed in Python/PyTorch during a research exchange at POSTECH, South Korea.
+Reproducible **cheminformatics and machine learning pipeline** for predicting lipophilicity (logD) from ChEMBL data, covering RDKit curation, benchmarking under random, scaffold and cluster splits, **applicability-domain analysis** and **conformal prediction intervals**. The models are stress-tested on ~19,000 EPA **PFAS** structures to show how far standard property models can be trusted outside their training chemistry.
 
-→ Repository (To be uploaded)
+→ [Repository](https://github.com/isasunde/qsar-applicability-domain-pfas)
 
 ## 🛠️ Tools & technologies
 
